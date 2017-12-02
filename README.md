@@ -19,3 +19,14 @@ Somewhat trivial after having first one implemented. Still, smart second iterato
 Remarks:
 - `rustc` and `cargo` are really great with their suggestion and ease of running tests.
 - After working for so long with high-level languages I kind of forgot about essentials that are emphasised in Rust (e.g. borrowing). I have to work a little bit on that.
+
+
+## Day 2
+Let's go with Scala. For some reason I feel like solution in functional paradigm should be somewhat concise. I started with [official tutorial](https://www.scala-lang.org/documentation/getting-started-sbt-track/getting-started-with-scala-and-sbt-on-the-command-line.html).
+
+Part 1: Quite easy.
+
+Part 2: Well, writing O(n^2) time and O(n) space solution hurts a little bit. I wonder whether it could be optimized.
+
+Remarks:
+- SBT is nice, but still it's quite a lot of overhead for such simple code.
