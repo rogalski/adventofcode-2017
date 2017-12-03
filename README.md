@@ -30,3 +30,8 @@ Part 2: Well, writing O(n^2) time and O(n) space solution hurts a little bit. I 
 
 Remarks:
 - SBT is nice, but still it's quite a lot of overhead for such simple code.
+
+## Day 3
+Implementation in `C#`. Overall - I'm really not happy with outcome. It feels like there is some straightforward solution based purely on mathematical formula behind spiral layout. My implementation looks clumsy and not that great. Part 2 is essentially brute-forced (finding neighbors based in (x, y) coordinates).
+
+Well, let's ship it and move on to the next one.
