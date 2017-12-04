@@ -35,3 +35,12 @@ Remarks:
 Implementation in `C#`. Overall - I'm really not happy with outcome. It feels like there is some straightforward solution based purely on mathematical formula behind spiral layout. My implementation looks clumsy and not that great. Part 2 is essentially brute-forced (finding neighbors based in (x, y) coordinates).
 
 Well, let's ship it and move on to the next one.
+
+## Day 4
+After reading first problem statement, I knew for sure that some functional language would be the best. Elixir was picked because it was high on list of languages to try (and, well, it's not my first attempt at writing it).
+
+Some remarks:
+- There seems like I wrongly have not used `mix` to generate app layout. Figuring out a simple stuff like "what is an entry point for my app" took me a lot of time. Also, without `mix` I have to compile and run tests and run main in multiple steps. Is there an easier way?
+- Functional languages are cool, but currently I really need to focus in terms of thinking about functions and lists. It's not very easy, when daily job is done mostly in OOO / procedural style (but Python experience helps a lot).
+- Arity notation is somewhat unexpected, I strongly prefer Python's notation of optional keyword arguments.
+- File-based API was not a good decision. Function called `is_line_valid` and `is_line_valid2` would be better.
