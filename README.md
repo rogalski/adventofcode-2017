@@ -44,3 +44,8 @@ Some remarks:
 - Functional languages are cool, but currently I really need to focus in terms of thinking about functions and lists. It's not very easy, when daily job is done mostly in OOO / procedural style (but Python experience helps a lot).
 - Arity notation is somewhat unexpected, I strongly prefer Python's notation of optional keyword arguments.
 - File-based API was not a good decision. Function called `is_line_valid` and `is_line_valid2` would be better.
+
+## Day 5
+Swift - meh, nothing really exciting. Syntax is brief and concise, but I still cannot put my finger around Apple's IDE - I _think_ it just abstracts too much.
+
+Problem was quite trivial and easily testable, both first and second version of it.
