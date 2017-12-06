@@ -49,3 +49,15 @@ Some remarks:
 Swift - meh, nothing really exciting. Syntax is brief and concise, but I still cannot put my finger around Apple's IDE - I _think_ it just abstracts too much.
 
 Problem was quite trivial and easily testable, both first and second version of it.
+
+## Day 6
+C++ - not a bad one, still really verbose language comparing to all previous ones (except C# of course). Implementation is quite straightforward, but it took me some time to complete it. As always - most of time was spent on Googling and Stack Overflowing for doing simple stuff is language I'm currently using.
+
+- those non-const-time searching for vector in vectors still bothers me a little bit
+- there are certainly better data types to do the job more efficiently,
+- I know there should be some well-structures unit tests, but oh well... Quick test in main was good enough.
+
+Compile with:
+```
+clang -std=c++14 -Wall -Werror -lstdc++ day06.cpp -o day06
+```
