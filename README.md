@@ -61,3 +61,6 @@ Compile with:
 ```
 clang -std=c++14 -Wall -Werror -lstdc++ day06.cpp -o day06
 ```
+
+## Day 7
+Python 3.x - I'm not really happy with outcome, made few crucial mistakes along a way. Type annotations are there just for fun. Let's ship it and move on.
