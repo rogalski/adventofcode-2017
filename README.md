@@ -64,3 +64,14 @@ clang -std=c++14 -Wall -Werror -lstdc++ day06.cpp -o day06
 
 ## Day 7
 Python 3.x - I'm not really happy with outcome, made few crucial mistakes along a way. Type annotations are there just for fun. Let's ship it and move on.
+
+
+## Day 8
+Clojure! It's fair to say that it was hardest for me to write it (comparing to all previous tasks). I'm happy with the fact that I _knew_ how implementation should look like and simply struggled with syntax. Experience with Python helped a lot.
+
+- Part 1: map-reducing seemed like an obvious way. Took me a lot of tries, but is there!
+- Part 2: Needed few minutes with Google to find _reduce, but with history_. After that, post-processing output was quite trivial.
+
+**Yay, my first Lisp code ever!** 🎉
+
+Btw. Is there an  IDE for that? I spent most time on balancing parenthesis, this cannot be a good way of programming in LISP...
