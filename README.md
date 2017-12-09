@@ -75,3 +75,7 @@ Clojure! It's fair to say that it was hardest for me to write it (comparing to a
 **Yay, my first Lisp code ever!** 🎉
 
 Btw. Is there an  IDE for that? I spent most time on balancing parenthesis, this cannot be a good way of programming in LISP...
+
+## Day 9
+Implementation in terms of state machine and transitions between states seems to be nice and clean.
+Code itself is kind of boring - and would likely look very similar in other languages.
