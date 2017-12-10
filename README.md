@@ -79,3 +79,9 @@ Btw. Is there an  IDE for that? I spent most time on balancing parenthesis, this
 ## Day 9
 Implementation in terms of state machine and transitions between states seems to be nice and clean.
 Code itself is kind of boring - and would likely look very similar in other languages.
+
+## Day 10
+Java. Slightly boring - the most time was spent on actually understanding problem description.
+
+- Having Streams and Java 8 helped a lot.
+- IntelliJ is such an awesome IDE... Much easier comparing to writing Lisp in Atom.
